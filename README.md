@@ -1,3 +1,4 @@
 # COMP3104 – Developer Operations
 
--- Pritesh Patel
+- Pritesh Patel
+- George Brown Polytechnic 
