@@ -2,3 +2,5 @@
 
 - Pritesh Patel
 - George Brown Polytechnic 
+
+# Git Hooks
